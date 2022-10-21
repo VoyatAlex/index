@@ -1,0 +1,90 @@
+{
+  "channel_info": {
+    "channel": "Custom channel",
+    "url": "https://feeds.datafeedwatch.com/65349/d8aa712e4af33df807e3ac0d1363207e5e94bc44.xml"
+  },
+  "products": [
+    {
+      "title": "Sirop SodaStream bio limonade",
+      "image": "https://cdn.shopify.com/s/files/1/0264/8539/1431/products/FRA-BIO-OL.png?v=1641799721",
+      "price": 5.99,
+      "id": 39567958704199,
+      "link": "https://sodastream.fr/products/sirop-sodastream-bio-limonade",
+      "item_sku": 6619642429511
+    },
+    {
+      "title": "Xstream Energy 500ml",
+      "image": "https://cdn.shopify.com/s/files/1/0264/8539/1431/products/750ml_Energy.png?v=1615723588",
+      "price": 5.99,
+      "id": 31277013762119,
+      "link": "https://sodastream.fr/products/xstream-energy-drink",
+      "item_sku": 4360909979719
+    },
+    {
+      "title": "Grenadine 500ml",
+      "image": "https://cdn.shopify.com/s/files/1/0264/8539/1431/products/750ml_Saveur_Grenadine.png?v=1615723367",
+      "price": 5.99,
+      "id": 31277014417479,
+      "link": "https://sodastream.fr/products/sirop-grenadine-500ml",
+      "item_sku": 4360910602311
+    },
+    {
+      "title": "Pepsi Max 440ml",
+      "image": "https://cdn.shopify.com/s/files/1/0264/8539/1431/products/pepsimax_1.png?v=1614671501",
+      "price": 5.99,
+      "id": 31277017923655,
+      "link": "https://sodastream.fr/products/pepsi-max-440ml",
+      "item_sku": 4360913911879
+    },
+    {
+      "title": "Sirop Bio Citron Vert 500ml",
+      "image": "https://cdn.shopify.com/s/files/1/0264/8539/1431/products/sirop_bio_Citron_Vert_3714558c-ce1f-4d18-8607-2c9e24008797.png?v=1615717569",
+      "price": 6.29,
+      "salePrice": 4.99,
+      "id": 31277019660359,
+      "link": "https://sodastream.fr/products/sirop-bio-citron-vert",
+      "item_sku": 4360915615815
+    },
+    {
+      "title": "Agrumes Zero 500ml",
+      "image": "https://cdn.shopify.com/s/files/1/0264/8539/1431/products/750ml_Saveur_Agrumes_Zero_eca1a826-dc1e-4dfd-8e8e-e272c825bcbc.png?v=1614859799",
+      "price": 5.99,
+      "id": 31694612168775,
+      "link": "https://sodastream.fr/products/agrumes-zero-sans-sucres",
+      "item_sku": 4452514529351
+    },
+    {
+      "title": "Pack 3 bouteilles de gazéification grand modèle FUSE",
+      "image": "https://cdn.shopify.com/s/files/1/0264/8539/1431/products/1L_SLIM_2black_white.png?v=1627222462",
+      "price": 19.99,
+      "id": 31709412753479,
+      "link": "https://sodastream.fr/products/pack-3-bouteilles-fuses-grand",
+      "item_sku": 4460238798919
+    },
+    {
+      "title": "DUO PACK Pepsi et 7Up",
+      "image": "https://cdn.shopify.com/s/files/1/0264/8539/1431/products/pepsi_7up.png?v=1627220658",
+      "price": 11.98,
+      "salePrice": 9.99,
+      "id": 31762440814663,
+      "link": "https://sodastream.fr/products/duo-pack-pepsi-et-7up",
+      "item_sku": 4482881257543
+    },
+    {
+      "title": "Pepsi Max Cherry",
+      "image": "https://cdn.shopify.com/s/files/1/0264/8539/1431/products/0fc09f47-4e5e-48c2-80ed-07774bc3e78d.png?v=1629890558",
+      "price": 5.99,
+      "id": 39462838304839,
+      "link": "https://sodastream.fr/products/pepsi-max-cherry",
+      "item_sku": 6591011094599
+    },
+    {
+      "title": "Lipton Ice Tea saveur Pêche",
+      "image": "https://cdn.shopify.com/s/files/1/0264/8539/1431/products/FR_SSxLIP_440ML_Mockup_091720_peach_saturated.png?v=1634130945",
+      "price": 5.99,
+      "id": 39462839091271,
+      "link": "https://sodastream.fr/products/lipton-ice-tea-saveur-peche",
+      "item_sku": 6591011422279
+    }
+  ]
+}
